@@ -1,5 +1,4 @@
 ﻿using ActionFilterImplementation.Filters;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ActionFilterImplementation.Controllers
